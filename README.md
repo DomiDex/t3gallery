@@ -2,7 +2,7 @@
 
 ##to Do
 
-- [ ] Make it deploy (vercel)
+- [x] Make it deploy (vercel)
 - [ ] scaffold the basic ui
 - [ ] set up database (vercel postgres)
 - [ ] attache the db to ui
