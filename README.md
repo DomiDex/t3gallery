@@ -3,7 +3,8 @@
 ##to Do
 
 - [x] Make it deploy (vercel)
-- [ ] scaffold the basic ui
+- [x] scaffold the basic ui
+- [x] tidy up build process
 - [ ] set up database (vercel postgres)
 - [ ] attache the db to ui
 - [ ] add authentication (clerk)
